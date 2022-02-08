@@ -33,15 +33,15 @@ html{
   }
 
   .header{
-      width: 100%;
-      height: 95vh;
-      background-image:url(../assets/img/salon.jpg);
-      background-repeat: no-repeat;
-      background-position: center;
-      background-size: fixed;
-      position: relative;
-      overflow: hidden; 
-      background-color: var(--misty-rose);
+    width: 100%;
+    height: 95vh;
+    background-image:url(../assets/img/salon.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: fixed;
+    position: relative;
+    overflow: hidden; 
+    background-color: var(--misty-rose);
   }
   .navbar a{
     color: white;
